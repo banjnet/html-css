@@ -1,0 +1,55 @@
+.body {
+    background-image: linear-gradient(to right, #AE68C0 , #ED8C7B);
+}
+
+.container{
+    width: 320px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 70px;
+    background-color: cornsilk;
+    border: tomato 1px;
+    border-radius: 10px;
+    padding: 5px;
+ 
+}
+
+ 
+}
+.figures{
+    color: #ED8C7B;
+    font-size: 16px;
+    text-align: right;
+    height: auto;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.totalFigure{
+    color: white;
+    font-size: 42px;
+    text-align: right;
+}
+.blackDiv{
+    background-color: black;
+    color: white;
+    height: 120px;
+    width: auto;
+    padding-top: 10px;
+    padding-right: 20px;
+    text-align: right;
+}
+
+.boxf6 {background-color: #f6f6f6; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxf3 {background-color: #F3F3F3; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxf5 {background-color: #F5F5F5; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxfc {background-color: #FcFcFc; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxfd {background-color: #FdFdFd; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxfe {background-color: #FeFeFe; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxf7 {background-color: #F7F7F7; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxf8 {background-color: #F8F8F8; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxf9 {background-color: #F9F9F9; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
+.boxp {background-color: #E62F89; height: 80px; font-size: 16px; text-align: center; padding: 25px 0; color: white; }
+.boxpurple {background-color: #8D52DE; height: 80px; font-size: 16px; text-align: center; padding: 25px 0;}
