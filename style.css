@@ -18,7 +18,8 @@
 
  
 }
-.figures{
+.fig{
+    background-color: yellow;
     color: #ED8C7B;
     font-size: 16px;
     text-align: right;
@@ -27,7 +28,7 @@
     margin-bottom: 0px;
 }
 
-.totalFigure{
+.fig2{
     color: white;
     font-size: 42px;
     text-align: right;
